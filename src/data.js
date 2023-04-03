@@ -258,7 +258,7 @@ export const trainers = [
   {
     id: 2,
     image: Trainer2,
-    name: 'Dr. Sohail',
+    name: 'Dr.Sohail Masood Bhatti',
     job: 'Co-Supervisor',
     socials: [
       'https://instagram.com/',
