@@ -64,7 +64,7 @@ const Footer = () => {
         </article>
       </div>
       <div className="footer__copyright">
-        <small>Autodoc team, All Right Reserved</small>
+        <small>Autodoc team, All Right Reserved.</small>
       </div>
     </footer>
   )
