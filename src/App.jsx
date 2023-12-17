@@ -8,7 +8,6 @@ import Trainers from './pages/trainers/Trainers'
 import NotFound from './pages/notFound/NotFound'
 import Navbar from './components/Navbar'
 import Footer from './components/Footer'
-
 const App = () => {
   return (
     <div>
